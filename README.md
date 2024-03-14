@@ -1,0 +1,5 @@
+- Hello, I'm @hattori-sat.
+- I majored in mechanical engineering and minored in informatics.
+- During my graduate studies, I worked on satellite development for about three years.
+- One of the projects I was involved in was the STARS-X tether satellite, where I was engaged in both hardware and software aspects.
+- I have a broad interest ranging from hardware to software, so I would be grateful if you could follow me.
