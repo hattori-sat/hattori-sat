@@ -18,5 +18,9 @@ note : It's a miscellaneous blog where I share brief introductions to technical 
 
 https://note.com/hattoriofpigeon/
 
+speakerdeck : slide up
+
+https://speakerdeck.com/02hattori11sat03
+
 
 
